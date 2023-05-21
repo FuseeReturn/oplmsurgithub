@@ -1,4 +1,4 @@
-Hllo Guys, I like dev and I'm learning English too. I have social networks (;
+Hello Guys, I like dev and I'm learning English too. I have social networks (;
 
 Discord (https://discord.gg/3UVtbxrT2P) (Join US ! )
 Instagram (https://www.instagram.com/oplmyt)
