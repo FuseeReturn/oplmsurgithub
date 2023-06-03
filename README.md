@@ -15,4 +15,6 @@ Hello Guys, I like dev and I'm learning English too. I have social networks (;
 [*] I'm French \n
 [*] I have Discord \n
 
+I will recommand to see the raw (https://raw.githubusercontent.com/oplmsurgithub/oplmsurgithub/main/README.md) 
+
 :warning: Do not spam in DM discord, or I will block you.
