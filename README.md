@@ -10,9 +10,9 @@ Hello Guys, I like dev and I'm learning English too. I have social networks (;
 
 ==============================================================================================
 
-[*] Cannot Be empty
-[*] I'm learning the dev
-[*] I'm French
-[*] I have Discord
+[*] Cannot Be empty \n
+[*] I'm learning the dev \n
+[*] I'm French \n
+[*] I have Discord \n
 
 :warning: Do not spam in DM discord, or I will block you.
